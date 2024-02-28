@@ -1,0 +1,13 @@
+filename = 'pipez-forge-1.19.2-1.2.6.jar'
+name = 'Pipez'
+side = 'both'
+
+[download]
+hash = '6112217e3fcc04661344ce4c8d260289f2902ee1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4971143
+project-id = 443900
